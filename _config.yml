@@ -1,0 +1,28 @@
+name: Energy Holistic Health
+favicon: null
+layout_spectrum: 0.2452479861676693
+typography_spectrum: 0.36651854356750846
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.417319048428908
+  lightness: 0.655744536081329
+  saturation: 0.2925882157869637
+  rhythmicContrast: 0.6302040941081941
+purpose: []
