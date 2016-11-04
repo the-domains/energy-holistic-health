@@ -1,19 +1,4 @@
-name: Energy Holistic Health
-favicon: null
-layout_spectrum: 0.25792
 typography_spectrum: 0.43126
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,38 @@ color:
   lightness: 0.625
   saturation: 0.875
   rhythmicContrast: 0.75
+github: true
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.25792
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c1a4d2b-c3b3-4a4b-a905-46e5c8b07c21.png
+name: Energy Holistic Health
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: 'My Journey '
+    id: 084934d4-d276-4d2a-81c2-88ae48fff578
+    type: content
+  - name: Mighty Maca
+    url: 'http://drann.ontraport.com/t?orid=14553&opid=6'
+    type: external
+  - name: MET423+HAQ+New+Version.pdf
+    id: c591e97a-adec-4dfa-a8b1-fb6a4b61865e
+    type: content
+  - name: Health+&+Lifestyle+Awareness+Questionnaire.pdf
+    id: bc9b8ea6-7e0c-47da-9bbc-1175e43d2b43
+    type: content
+favicon: null
+title: Energy Holistic Health
+content: []
+description: Mindy Jones Lee - Integrative Health Practitioner
 purpose: []
