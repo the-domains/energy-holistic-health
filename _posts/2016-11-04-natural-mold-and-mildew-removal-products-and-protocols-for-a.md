@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-04T17:28:11.948Z'
+datePublished: '2016-11-04T17:30:25.823Z'
 sourcePath: >-
   _posts/2016-11-04-natural-mold-and-mildew-removal-products-and-protocols-for-a.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-04T17:28:11.584Z'
+dateModified: '2016-11-04T17:30:25.413Z'
 title: ''
 publisher: {}
 description: Dr. formulated whole body superfoods health drink with 42 ingredients!
@@ -32,9 +32,11 @@ As a family-owned health sciences company, we create innovative dietary suppleme
 [CitriSafe][4]
 
 Natural mold and mildew removal products and protocols for a healthier life! Take your first steps toward a healthier life and begin your mold removal and cleanup today.
+[Vibram][5]
 
 [0]: http://drann.ontraport.com/t?orid=14553&opid=6
 [1]: http://www.mypurium.com/Energyholistichealth6
 [2]: https://dutchtest.com/
 [3]: https://www.xymogen.com/
 [4]: http://www.citrisafe.com/
+[5]: http://us.vibram.com/company/education/fivefingers/
