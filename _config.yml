@@ -31,9 +31,6 @@ navigation:
   - name: 'My Journey '
     id: 084934d4-d276-4d2a-81c2-88ae48fff578
     type: content
-  - name: Mighty Maca
-    url: 'http://drann.ontraport.com/t?orid=14553&opid=6'
-    type: external
   - name: Product Links
     id: 5ff1ef31-f618-4785-b625-34ae814382df
     type: content
