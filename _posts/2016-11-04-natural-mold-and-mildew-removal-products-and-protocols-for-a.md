@@ -1,19 +1,21 @@
 ---
-datePublished: '2016-11-04T17:12:36.583Z'
+datePublished: '2016-11-04T17:12:56.447Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-11-04T17:12:09.149Z'
+dateModified: '2016-11-04T17:12:56.015Z'
 title: ''
 publisher: {}
 description: >-
   Natural mold and mildew removal products and protocols for a healthier life!
   Take your first steps toward a healthier life and begin your mold removal and
   cleanup today.
-starred: false
 sourcePath: >-
   _posts/2016-11-04-natural-mold-and-mildew-removal-products-and-protocols-for-a.md
-_type: Blurb
+hasPage: true
+starred: false
+url: natural-mold-and-mildew-removal-products-and-protocols-for-a/index.html
+_type: Article
 
 ---
 [CitriSafe][0]
