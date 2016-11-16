@@ -37,7 +37,8 @@ navigation:
   - name: Blog
     url: 'http://blog.energyholistichealth.com'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/162f3a19-dc13-4276-821e-2e39b4b27f96.png
 title: Energy Holistic Health
 content: []
 description: Mindy Jones Lee - Integrative Health Practitioner
